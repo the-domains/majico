@@ -6,9 +6,10 @@ color:
   saturation: 0.8883560486137867
   rhythmicContrast: 0.08241497655399144
   brandColors:
-    - '#B7CCDC'
-    - '#6E603A'
-    - '#001801'
-    - '#808173'
-    - '#382603'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: majico
+title: try something new today
