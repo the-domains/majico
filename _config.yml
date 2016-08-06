@@ -1,0 +1,14 @@
+layout_spectrum: 0.1706356373615563
+typography_spectrum: 0.37337113358080387
+color:
+  brandStrength: 0.8595314403064549
+  lightness: 0.38512841681949794
+  saturation: 0.8883560486137867
+  rhythmicContrast: 0.08241497655399144
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: majico
